@@ -17,7 +17,7 @@
   - pretty much anything
 
 # 📫 How to reach me ...
-  - [EMAIL](kuietk@proton.me)
+  - EMAIL: <kuietk@proton.me>
 
 # ⚡ Fun fact: ...
   - i dont know what the K stands for yet x3 
