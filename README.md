@@ -10,7 +10,6 @@
   - Anime/Manga
   - Game Dev
   - Chiptune
-  - 
 
 ## 🌱 I’m currently learning ...
   - JavaScript
